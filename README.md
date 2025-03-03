@@ -1,9 +1,9 @@
 # 👩🏻‍💻 Gabriel Brasiliano
 
-**Ceres Sistemas**
+**Ceres Sistemas** </br>
 **`💻 Desenvolvedor Full Stack | Java | Swing | PostgreSQL | Git`**
 
-**Prefeitura Municipal da Instancia Turística de Ilha Solteira**
+**Prefeitura Municipal da Instancia Turística de Ilha Solteira** </br>
 **`💻 Desenvolvedor MEAN Stack | MongoDB | Express.js | Angular 2 | Node.js | Git`**
 
 Atuo há mais de 7 anos na área de desenvolvimento de software. Trabalhei por 1 ano e 8 meses com MEAN Stack (MongoDB, Express, Angular e Node.js), adquirindo experiência com aplicações web dinâmicas e escaláveis. Nos últimos 6 anos, venho me especializando no ecossistema Java, utilizando Swing, PostgreSQL e Jasper Reports para criar soluções robustas e eficientes.
