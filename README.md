@@ -23,7 +23,7 @@ Sou apaixonado por tecnologia e sempre busco aprimorar minhas habilidades, seja 
 </br>
 </br>
 
-### 📊 Estatistica
+### 📊 Estatística
 <img align="left" alt="GitHub stats" height="150" style="padding-right: 10px;" 
 src="https://github-readme-stats.vercel.app/api?username=GabrielBrasiliano&show_icons=true&theme=tokyonight&include_all_commits=true"/>          
 
