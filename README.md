@@ -4,8 +4,6 @@
 Atuo há mais de 7 anos na área de desenvolvimento de software. Trabalhei por 1 ano e 8 meses com MEAN Stack (MongoDB, Express, Angular e Node.js), adquirindo experiência com aplicações web dinâmicas e escaláveis. Nos últimos 6 anos, venho me especializando no ecossistema Java, utilizando Swing, PostgreSQL e Jasper Reports para criar soluções robustas e eficientes.
 
 Sou apaixonado por tecnologia e sempre busco aprimorar minhas habilidades, seja otimizando código, explorando novas ferramentas ou enfrentando desafios complexos. Minha experiência abrange desde a modelagem e integração de bancos de dados até o desenvolvimento de APIs RESTful e geração de relatórios avançados.
-
-</br>
 </br>
 
 ### 🤖 Linguagens e Tecnologias 
@@ -20,14 +18,14 @@ Sou apaixonado por tecnologia e sempre busco aprimorar minhas habilidades, seja 
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="Bootstrap"  title="Bootstrap"  width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="Tailwind"   title="Tailwind"   width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="SASS"       title="SASS"       width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>          
+<img align="left" alt="SASS"       title="SASS"       width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
 
 </br>
 </br>
 
 ### 📊 Estatistica
-<img align="left" alt="GitHub stats" height="200" style="padding-right: 10px;" 
+<img align="left" alt="GitHub stats" height="200" 
 src="https://github-readme-stats.vercel.app/api?username=GabrielBrasiliano&show_icons=true&theme=tokyonight&include_all_commits=true"/>          
 
-<img align="left" alt="Top Langs" height="200" style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrasiliano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>  
+<img align="left" alt="Top Langs" height="200" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrasiliano&theme=tokyonight&custom_title=Tecnologias"/>  
