@@ -1,7 +1,6 @@
 # 🧔 Gabriel Brasiliano
----
 
-**Ceres Sistemas** 
+**Ceres Sistemas** </br>
 **`💻 Java | Swing | Jasper Reports | PostgreSQL | Git`**
 
 <img align="left" alt="Java"       title="Java"       width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
@@ -12,7 +11,7 @@
 </br>
 </br>
 
-**Prefeitura Municipal da Instancia Turística de Ilha Solteira**
+**Prefeitura Municipal da Instancia Turística de Ilha Solteira** </br>
 **`💻 MongoDB | Express.js | Angular 2 | Node.js | Git`**
 
 <img align="left" alt="MongoDB"    title="MongoDB"    width="35px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>
