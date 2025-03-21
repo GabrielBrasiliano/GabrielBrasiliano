@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Full Stack
 Atuo há mais de 7 anos na área de desenvolvimento de software. Trabalhei por 1 ano e 8 meses com MEAN Stack (MongoDB, Express, Angular e Node.js), adquirindo experiência com aplicações web dinâmicas e escaláveis. Nos últimos 6 anos, venho me especializando no ecossistema Java, utilizando Swing, PostgreSQL e Jasper Reports para criar soluções robustas e eficientes.
-
+    
 Sou apaixonado por tecnologia e sempre busco aprimorar minhas habilidades, seja otimizando código, explorando novas ferramentas ou enfrentando desafios complexos. Minha experiência abrange desde a modelagem e integração de bancos de dados até o desenvolvimento de APIs RESTful e geração de relatórios avançados.
 </br>
 
